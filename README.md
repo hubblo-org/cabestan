@@ -11,7 +11,7 @@ Cabestan helps you inventories your IT ressources from different sources. It has
 
 Cabestan is a modular tool based on several approaches
 
-<img src="https://github.com/hubblo-org/cabestan/blob/main/macro_scheme.png">
+<img src="https://github.com/hubblo-org/cabestan/blob/main/CABESTAN - MACRO VUE.jpg">
 
 ### 🏷️ Sources
 
