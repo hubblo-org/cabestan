@@ -38,7 +38,7 @@ Sources are places where assets can be gathered
 | ServiceNow                 | Assets manager |       |
 | CloudQuerry                | PaaS-IaaS-FaaS |  https://github.com/hubblo-org/cabestan/issues/2   |
 | Google Workplace usage API | SaaS           |  https://github.com/hubblo-org/cabestan/issues/3   |
-| Microsoft Graph API        | SaaS           |       |
+| Microsoft Graph API        | SaaS           |  https://github.com/hubblo-org/cabestan/issues/4     |
 
 ### 📤 Exporters
 
