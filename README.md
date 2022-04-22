@@ -22,12 +22,15 @@ Sources are places where assets can be gathered
 * **Assest managment :** Identify assets config and usage throught existing assets managment system (like CMDB)
 * **SaaS-PaaS-IaaS :** Identify SaaS-PaaS-IaaS assets config and usage throught API providers
 * **Flows and stock managment :** Identify assets config and usage as a flow or a stock throught non-IT tools
+* **Monitoring :** Identify assets config and usage throught monitoring services
+
 
 ### 🔬 Scanners
 
 | Name                       | Source         | issue |
 |----------------------------|----------------|-------|
 | nmap                       | Network        | https://github.com/hubblo-org/cabestan/issues/1 |
+| snmp                       | Network        |       |
 | scaphandre                 | Device         |       |
 | boagent                    | Device         |       |
 | netbox                     | Assets manager |       |
@@ -36,9 +39,19 @@ Sources are places where assets can be gathered
 | GLPI                       | Assets manager |       |
 | iTop                       | Assets manager |       |
 | ServiceNow                 | Assets manager |       |
+| Observium                  | Monitoring     |       |
+| Librenms                   | Monitoring     |       |
+| Nagios                     | Monitoring     |       |
+| M onit                     | Monitoring     |       |
+| Munin                      | Monitoring     |       |
+| Icing                      | Monitoring     |       |
+| Zabbix                     | Monitoring     |       |
+| Centreon                   | Monitoring     |       |
+| Centreon                   | Monitoring     |       |
+| Microsoft Intune           | MDM            |       |
 | CloudQuerry                | PaaS-IaaS-FaaS |  https://github.com/hubblo-org/cabestan/issues/2   |
 | Google Workplace usage API | SaaS           |  https://github.com/hubblo-org/cabestan/issues/3   |
-| Microsoft Graph API        | SaaS           |  https://github.com/hubblo-org/cabestan/issues/4     |
+| Microsoft Graph API        | SaaS           |  https://github.com/hubblo-org/cabestan/issues/4   |
 
 ### 📤 Exporters
 
