@@ -55,8 +55,11 @@ Sources are places where assets can be gathered
 
 ### 📤 Exporters
 
-* **CMDB exporter :** Use CMD API to export your assets
-* **Database exporter :** Write your assets in a dedicated database 
+| Name               | Target type         | issue |
+|--------------------|----------------|-------|
+| JSON-LD            | LCA softaware  | https://github.com/hubblo-org/cabestan/issues/6 |
+| netbox             | CMDB           | https://github.com/hubblo-org/cabestan/issues/5      |
+| SQL                | Database       |       |
 
 ## 📅 Roadmap
 
