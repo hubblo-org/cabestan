@@ -30,10 +30,10 @@ Sources are places where assets can be gathered
 | Name                       | Source         | issue |
 |----------------------------|----------------|-------|
 | nmap                       | Network        | https://github.com/hubblo-org/cabestan/issues/1 |
-| snmp                       | Network        |       |
+| snmp                       | Network        | https://github.com/hubblo-org/cabestan/issues/7 |
 | scaphandre                 | Device         |       |
 | boagent                    | Device         |       |
-| netbox                     | Assets manager |       |
+| netbox                     | Assets manager | https://github.com/hubblo-org/cabestan/issues/8 |
 | Ralph                      | Assets manager |       |
 | CMDBuild                   | Assets manager |       |
 | GLPI                       | Assets manager |       |
