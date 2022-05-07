@@ -2,7 +2,7 @@
   Cabestan
 </h1>
 
-<img alt="cabestan" src="https://user-images.githubusercontent.com/906428/167257377-4de1a365-c677-46f0-9b66-bbd7379a6a38.png"/>
+<img alt="cabestan" align="center" src="https://user-images.githubusercontent.com/906428/167257377-4de1a365-c677-46f0-9b66-bbd7379a6a38.png"/>
 
 ---
 
