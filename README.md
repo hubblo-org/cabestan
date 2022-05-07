@@ -2,6 +2,8 @@
   Cabestan
 </h1>
 
+![cabestan_400](https://user-images.githubusercontent.com/906428/167257377-4de1a365-c677-46f0-9b66-bbd7379a6a38.png)
+
 ---
 
 [![Join the chat at https://gitter.im/hubblo-org/cabestan](https://badges.gitter.im/hubblo-org/cabestan.svg)](https://gitter.im/hubblo-org/cabestan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
