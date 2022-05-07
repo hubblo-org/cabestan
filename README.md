@@ -3,6 +3,9 @@
 </h1>
 
 ---
+
+[![Join the chat at https://gitter.im/hubblo-org/cabestan](https://badges.gitter.im/hubblo-org/cabestan.svg)](https://gitter.im/hubblo-org/cabestan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## 🎯 Objective
 
 Cabestan helps you inventories your IT assets from different sources. It has been designed to be part of an approach to measure, monitor and reduce the environmental impacts of digital systems and services.
