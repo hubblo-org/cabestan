@@ -51,8 +51,7 @@ Sources are places where assets can be gathered
 | Munin                      | Monitoring     |       |
 | Icing                      | Monitoring     |       |
 | Zabbix                     | Monitoring     |       |
-| Centreon                   | Monitoring     |       |
-| Centreon                   | Monitoring     |       |
+| Centreon                   | Monitoring     |  https://github.com/hubblo-org/cabestan/issues/10     |
 | Microsoft Intune           | MDM            |       |
 | CloudQuerry                | PaaS-IaaS-FaaS |  https://github.com/hubblo-org/cabestan/issues/2   |
 | Google Workplace usage API | SaaS           |  https://github.com/hubblo-org/cabestan/issues/3   |
@@ -63,8 +62,8 @@ Sources are places where assets can be gathered
 | Name               | Target type         | issue |
 |--------------------|----------------|-------|
 | JSON-LD            | LCA softaware  | https://github.com/hubblo-org/cabestan/issues/6 |
-| netbox             | CMDB           | https://github.com/hubblo-org/cabestan/issues/5      |
-| SQL                | Database       |       |
+| netbox             | CMDB           |       |
+| SQL                | Database       | https://github.com/hubblo-org/cabestan/issues/5 |
 
 ## 📅 Roadmap
 
