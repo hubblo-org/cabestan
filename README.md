@@ -34,24 +34,24 @@ Sources are places where assets can be gathered
 
 | Name                       | Source         | issue |
 |----------------------------|----------------|-------|
-| nmap                       | Network        | https://github.com/hubblo-org/cabestan/issues/1 |
-| snmp                       | Network        | https://github.com/hubblo-org/cabestan/issues/7 |
+| nmap                       | Network        | https://github.com/hubblo-org/cabestan/issues/1   |
+| snmp                       | Network        | https://github.com/hubblo-org/cabestan/issues/7   |
 | scaphandre                 | Device         |       |
 | boagent                    | Device         |       |
-| netbox                     | Assets manager | https://github.com/hubblo-org/cabestan/issues/8 |
+| netbox                     | Assets manager | https://github.com/hubblo-org/cabestan/issues/8   |
 | Ralph                      | Assets manager |       |
 | CMDBuild                   | Assets manager |       |
 | GLPI                       | Assets manager |       |
 | iTop                       | Assets manager |       |
 | ServiceNow                 | Assets manager |       |
-| Observium                  | Monitoring     |       |
+| Observium                  | Monitoring     | https://github.com/hubblo-org/cabestan/issues/11  |
 | Librenms                   | Monitoring     |       |
 | Nagios                     | Monitoring     |       |
 | M onit                     | Monitoring     |       |
 | Munin                      | Monitoring     |       |
 | Icing                      | Monitoring     |       |
 | Zabbix                     | Monitoring     |       |
-| Centreon                   | Monitoring     |  https://github.com/hubblo-org/cabestan/issues/10     |
+| Centreon                   | Monitoring     |  https://github.com/hubblo-org/cabestan/issues/10  |
 | Microsoft Intune           | MDM            |       |
 | CloudQuerry                | PaaS-IaaS-FaaS |  https://github.com/hubblo-org/cabestan/issues/2   |
 | Google Workplace usage API | SaaS           |  https://github.com/hubblo-org/cabestan/issues/3   |
