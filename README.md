@@ -53,7 +53,9 @@ Sources are places where assets can be gathered
 | Zabbix                     | Monitoring     |       |
 | Centreon                   | Monitoring     |  https://github.com/hubblo-org/cabestan/issues/10  |
 | Microsoft Intune           | MDM            |       |
-| CloudQuerry                | PaaS-IaaS-FaaS |  https://github.com/hubblo-org/cabestan/issues/2   |
+| Boavizta's cloud-scanner   | PaaS-IaaS-FaaS |  https://github.com/hubblo-org/cabestan/issues/2   |
+| Boavizta's cloud-bill      | PaaS-IaaS-FaaS |       |
+| CloudQuerry                | PaaS-IaaS-FaaS |       |
 | Google Workplace usage API | SaaS           |  https://github.com/hubblo-org/cabestan/issues/3   |
 | Microsoft Graph API        | SaaS           |  https://github.com/hubblo-org/cabestan/issues/4   |
 
